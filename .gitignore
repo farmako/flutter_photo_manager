@@ -11,7 +11,7 @@ build/
 android/.classpath
 android/.project
 
-fvm
+.fvm
 doc/
 .env
 *.iml
